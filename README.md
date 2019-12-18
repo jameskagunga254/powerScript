@@ -5,7 +5,7 @@
 
 #note that whenever there is the a specific address i have put in my tools then you can change it to your ip address or ip address space 
 
-#lastly it is not ethical to use this tools in the domain that you have no permission to test
+#lastly it is not ethical to use this tools in the domain that you have no permission to test or environment you dont own
 
 #enjoy using the tools
 
