@@ -8,5 +8,9 @@
 #lastly it is not ethical to use this tools in the domain that you have no permission to test or environment you dont own
 
 #enjoy using the tools
+#There malware that i have already compiled they are harmless and you can use them and find out if your antivirus is capable to detect the malware # they are trojan 
+#The trojan are for windows platform PE files or executable form
+
+########powerscript
 
 
